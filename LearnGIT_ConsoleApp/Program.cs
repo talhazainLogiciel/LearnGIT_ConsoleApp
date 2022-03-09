@@ -10,7 +10,8 @@ namespace LearnGIT_ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Creating First Project");
+            Console.WriteLine("Creating First Project.");
+            Console.WriteLine("Created First Branch for Syncing JIRA");
             Console.ReadLine();
         }
     }
