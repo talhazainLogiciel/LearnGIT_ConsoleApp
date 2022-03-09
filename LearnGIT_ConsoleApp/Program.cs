@@ -10,7 +10,7 @@ namespace LearnGIT_ConsoleApp
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Creating First Project");
         }
     }
 }
